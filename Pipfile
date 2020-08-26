@@ -9,6 +9,7 @@ verify_ssl = true
 praw = "*"
 flask = "*"
 pandas = "*"
+flask-wtf = "*"
 
 [requires]
 python_version = "3.7"
