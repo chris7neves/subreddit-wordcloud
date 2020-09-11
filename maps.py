@@ -19,6 +19,7 @@ CONTRACTION_MAP = {
 "he'll": "he will",
 "he'll've": "he he will have",
 "he's": "he is",
+"here's": "here is", # I added this one
 "how'd": "how did",
 "how'd'y": "how do you",
 "how'll": "how will",
